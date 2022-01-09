@@ -34,7 +34,9 @@ As visualized by the darker color in the palette, the majority of rides are duri
 
 Continuing the analysis breaking down the data by gender, the visualization indicates that there are more male riders than female riders
 
+![image](https://user-images.githubusercontent.com/88912539/148687188-e3e13208-b81f-4c95-b3ad-7f427c6b513d.png)
 
+The above image provides a visual summary of the previous images and reveals that the majority of rides are by Subscribers (mostly males) and the riders are during weekdays more than weekends. 
 
 
 ## Summary 
