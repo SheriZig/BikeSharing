@@ -15,8 +15,24 @@ The analysis focused on the total number of trips, time of day when the trips we
 ![image](https://user-images.githubusercontent.com/88912539/148686434-5e3daf5c-1bf4-46f4-96a8-334c8c605c1d.png)
 
 The first three images are combined into a dashboard to create an initial overview of the data: total number of rides, whos is riding (Day Customer vs Subscribers)
-and when the rides take place (Rides per hour)
+and when the rides take place (Rides per hour).
 
+
+![image](https://user-images.githubusercontent.com/88912539/148686681-a571452d-acd9-4640-833d-a45196c831d9.png)
+
+Amount of time that bikes are checked out for all riders. Notice that most riders checkout the bike for less than 10 minutes.
+
+![image](https://user-images.githubusercontent.com/88912539/148686730-da2737d6-1b46-47c1-8f0f-eb77e2db4097.png)
+
+Checkout times by gender reveal that males have more checkouts than females when the checkout is less than 50 minutes but then evens out after as the checkout gets close to an hour. 
+
+![image](https://user-images.githubusercontent.com/88912539/148686844-6758d365-6ba7-4b7c-a07d-9eb60b1c203b.png)
+
+As visualized by the darker color in the palette, the majority of rides are during weekdays before and after traditional working ours (9:00 am to 5:00 pm)
+
+![image](https://user-images.githubusercontent.com/88912539/148686939-77f8fcde-0c5d-4005-92e3-1322b432ff35.png)
+
+Continuing the analysis breaking down the data by gender, the visualization indicates that there are more male riders than female riders
 
 
 
