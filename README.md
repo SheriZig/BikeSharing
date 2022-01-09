@@ -6,9 +6,7 @@ New York ride sharing data was obtained and an analysis was conducted for a pres
 
 The analysis focused on the total number of trips, time of day when the trips were taken, and user data. 
 
-Click to view thehttps://public.tableau.com/app/profile/sheri.ziegler3044/viz/Challenge-Module14/StoryEvalRidership?publish=yes)
-
-[Tableau Story](https://public.tableau.com/app/profile/sheri.ziegler3044/viz/Challenge-Module14/StoryEvalRidership?publish=yes)
+Click to view the [Tableau Story](https://public.tableau.com/app/profile/sheri.ziegler3044/viz/Challenge-Module14/StoryEvalRidership?publish=yes)
 
 ## Results 
 
