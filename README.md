@@ -8,7 +8,7 @@ The analysis focused on the total number of trips, time of day when the trips we
 
 ## Results 
 
-INSERT IMAGE OF TOTAL TRIPS
+![image](https://user-images.githubusercontent.com/88912539/148686347-7c99ecf4-1eb2-4f81-bcd9-17b35f5e993a.png)
 
 The total number of trips taken by all riders for all times during the day was XXXXXX
 
